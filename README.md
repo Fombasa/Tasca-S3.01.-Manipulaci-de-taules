@@ -1,1 +1,0 @@
-# Tasca-S3.01.-Manipulaci-de-taules
